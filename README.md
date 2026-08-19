@@ -1,9 +1,9 @@
-# Self-Tuning Neural Networks for Physics Simulations (ABU-PINN)
+# Learning Specialized Activation Functions for Physics informed Neural Networks
 
 ## Overview
 Physics-Informed Neural Networks (PINNs) train machine learning models to solve complex physical systems, such as fluid dynamics, heat transfer, and wave propagation. However, getting these models to train reliably usually requires engineers to manually guess and test internal settings known as activation functions.
 
-This project implements **Adaptive Blending Units (ABU-PINN)**, a flexible architecture that enables neural networks to automatically build and fine-tune their own custom activation functions during training.
+This project implements an alternative **Adaptive Blending Units (ABU-PINN)**, a flexible architecture that enables neural networks to automatically build and fine-tune their own custom activation functions during training.
 
 ---
 

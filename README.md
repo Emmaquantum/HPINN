@@ -29,4 +29,4 @@ Evaluated across standard mathematical physics benchmarks, this self-tuning arch
 
 ## Detailed Report
 For a slide deck detailing the network architecture, eigenvalue stability analysis, and complete experimental benchmarks, refer to the project summary document:
-- 📄 [Main Presentation PDF (main (1).pdf)](./main%20(1).pdf)
+- 📄 [Main Presentation PDF (main (2).pdf)](./main%20(2).pdf)
